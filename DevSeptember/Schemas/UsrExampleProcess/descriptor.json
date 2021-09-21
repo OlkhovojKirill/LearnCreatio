@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "99d55017-916c-405d-82ed-fffe6de36fdb",
+    "Name": "UsrExampleProcess",
+    "ModifiedOnUtc": "\/Date(1632250780000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Бизнес-процесс для примера"
+  }
+}
