@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "09d2b5d9-4349-474a-8a0e-31f9d4e5a1db",
+    "Name": "UsrRealtyStatus",
+    "ModifiedOnUtc": "\/Date(1632385772000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояние недвижимости"
+  }
+}
